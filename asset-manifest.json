@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/srcoll-demo/static/css/main.b1f31b6b.css",
-    "main.js": "/srcoll-demo/static/js/main.a36799bb.js",
+    "main.js": "/srcoll-demo/static/js/main.f42233e2.js",
     "static/media/large.mp4": "/srcoll-demo/static/media/large.24c406d3c8d727140b4c.mp4",
     "static/media/bilibili-autumn-1.png": "/srcoll-demo/static/media/bilibili-autumn-1.116becddd698265e3d0c.png",
     "static/media/iphone_red.png": "/srcoll-demo/static/media/iphone_red.8c4b1b937f8a334e736d.png",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.b1f31b6b.css",
-    "static/js/main.a36799bb.js"
+    "static/js/main.f42233e2.js"
   ]
 }
