@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ce4311ef.css",
-    "main.js": "/static/js/main.441b1a5b.js",
+    "main.js": "/static/js/main.b3fe8a43.js",
     "static/media/large.mp4": "/static/media/large.24c406d3c8d727140b4c.mp4",
     "static/media/bilibili-autumn-1.png": "/static/media/bilibili-autumn-1.116becddd698265e3d0c.png",
     "static/media/iphone_red.png": "/static/media/iphone_red.8c4b1b937f8a334e736d.png",
@@ -26,10 +26,10 @@
     "index.html": "/index.html",
     "static/media/demo_bg3.svg": "/static/media/demo_bg3.e0f5d314765530de9e574250eec1b23f.svg",
     "main.ce4311ef.css.map": "/static/css/main.ce4311ef.css.map",
-    "main.441b1a5b.js.map": "/static/js/main.441b1a5b.js.map"
+    "main.b3fe8a43.js.map": "/static/js/main.b3fe8a43.js.map"
   },
   "entrypoints": [
     "static/css/main.ce4311ef.css",
-    "static/js/main.441b1a5b.js"
+    "static/js/main.b3fe8a43.js"
   ]
 }
